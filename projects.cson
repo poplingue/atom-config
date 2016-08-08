@@ -1,0 +1,11 @@
+dhatim:
+  title: "Dhatim"
+  paths: [
+    "/Users/paulinegaudet-chardonnet/Documents/dhatim/bootstrap-ui"
+    "/Users/paulinegaudet-chardonnet/Documents/dhatim/icon"
+  ]
+"user-test":
+  title: "user-test"
+  paths: [
+    "/Applications/MAMP/htdocs/user-test"
+  ]

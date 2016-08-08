@@ -1,0 +1,37 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "cde4ba0b-f9cf-4967-a3bb-d393d5ac105b"
+    html:
+      beautify_on_save: true
+  "atom-htmltidy":
+    enableLinter: false
+    showErrors: false
+  autosave:
+    enabled: true
+  core:
+    audioBeep: false
+    disabledPackages: [
+      "smart-tab-name"
+      "symbols-view"
+      "atom-icons"
+      "auto-detect-indentation"
+    ]
+    openEmptyEditorOnStart: false
+    themes: [
+      "material-ui"
+      "material-syntax"
+    ]
+  editor:
+    autoIndent: true
+    invisibles: {}
+    showIndentGuide: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    tabType: "hard"
+  esformatter:
+    formatOnSave: true
+  "exception-reporting":
+    userId: "2033d15c-2663-ca23-7799-715a71931e59"
+  welcome:
+    showOnStartup: false
