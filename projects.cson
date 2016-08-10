@@ -8,4 +8,10 @@ dhatim:
   title: "user-test"
   paths: [
     "/Applications/MAMP/htdocs/user-test"
+    "/Users/paulinegaudet-chardonnet/Documents/fondation/lookback"
+  ]
+siseeds:
+  title: "Siseeds"
+  paths: [
+    "/Users/paulinegaudet-chardonnet/Documents/code/seeds/siseeds"
   ]
