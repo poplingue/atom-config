@@ -1,1 +1,1 @@
-### Atom config 
+### Atom custom configuration
