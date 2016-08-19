@@ -37,4 +37,4 @@
   'ctrl-shift-k': 'editor:delete-line'
   'ctrl-shift-d': 'editor:duplicate-lines'
 '.editor':
-  'cmd-w': 'editor:toggle-soft-wrap'
+  'cmd-alt-w': 'editor:toggle-soft-wrap'

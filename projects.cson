@@ -15,3 +15,8 @@ siseeds:
   paths: [
     "/Users/paulinegaudet-chardonnet/Documents/code/seeds/siseeds"
   ]
+kontakt:
+  title: "Kontakt"
+  paths: [
+    "/Users/paulinegaudet-chardonnet/Documents/code/kontakt"
+  ]

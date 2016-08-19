@@ -1,0 +1,51 @@
+{
+  "name": "html-head-snippets",
+  "version": "0.2.0",
+  "description": "HTML <head> snippets for Atom",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshbuchea/atom-html-head-snippets.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "html",
+    "html5",
+    "head",
+    "meta",
+    "snippets"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-lintspaces": "^0.4.1"
+  },
+  "readme": "# HTML Head Snippets\n\n[![Build Status](https://travis-ci.org/joshbuchea/atom-html-head-snippets.svg?branch=master)](https://travis-ci.org/joshbuchea/atom-html-head-snippets)\n\nHTML `<head>` snippets for [Atom](https://atom.io/); from the project [HEAD](https://github.com/joshbuchea/HEAD).\n\n## Installation\n\n```sh\napm install html-head-snippets\n```\n\n## Usage\n\n- `head-360` ⇥\n- `head-android` ⇥\n- `head-applinks` ⇥\n- `head-chrome` ⇥\n- `head-fav` ⇥\n- `head-fbia` ⇥\n- `head-fbog` ⇥\n- `head-gplus` ⇥\n- `head-ie` ⇥\n- `head-ios` ⇥\n- `head-min` ⇥\n- `head-oembed` ⇥\n- `head-qq` ⇥\n- `head-safari` ⇥\n- `head-twitter` ⇥\n- `head-uc` ⇥\n\n## Author\n\n**[Josh Buchea](http://joshbuchea.com/)**\n\n## License\n\n[MIT License](LICENSE)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/joshbuchea/atom-html-head-snippets/issues"
+  },
+  "homepage": "https://github.com/joshbuchea/atom-html-head-snippets#readme",
+  "_id": "html-head-snippets@0.2.0",
+  "_shasum": "aff89a37440fbfb217ade8c6e28bfd611c60d443",
+  "_resolved": "file:../d-11678-12576-1fl0mf3/package.tgz",
+  "_from": "../d-11678-12576-1fl0mf3/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".js": [
+        "gulpfile.js"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

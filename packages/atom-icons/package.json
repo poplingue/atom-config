@@ -1,0 +1,37 @@
+{
+  "name": "atom-icons",
+  "main": "index",
+  "version": "0.2.2",
+  "description": "The awesome icons for Atom",
+  "keywords": [
+    "icon"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvrcgo/atom-icons.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "readme": "# atom-icons\n\nThe awesome icons for Atom.\n\n![atom-icons](http://tvrcgo.qiniudn.com/github/atom-icons/preview.png)\n\n## License\nMIT\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/tvrcgo/atom-icons/issues"
+  },
+  "homepage": "https://github.com/tvrcgo/atom-icons#readme",
+  "_id": "atom-icons@0.2.2",
+  "_shasum": "63cfba7b95233f9345454fa7589877f22b60db24",
+  "_resolved": "file:../d-116524-4759-12nputd/package.tgz",
+  "_from": "../d-116524-4759-12nputd/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
