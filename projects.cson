@@ -10,14 +10,14 @@ usertest:
     "/Applications/MAMP/htdocs/user-test"
     "/Users/paulinegaudet-chardonnet/Documents/fondation/lookback"
   ]
-siseeds:
-  title: "Siseeds"
-  paths: [
-    "/Users/paulinegaudet-chardonnet/Documents/code/seeds/siseeds"
-  ]
 kontakt:
   title: "Kontakt"
   paths: [
     "/Users/paulinegaudet-chardonnet/Documents/code/kontakt"
     "/Users/paulinegaudet-chardonnet/Documents/code/router-test/react-router-tutorial"
+  ]
+watchusbuildreact:
+  title: "Watch Us Build React"
+  paths: [
+    "/Users/paulinegaudet-chardonnet/Documents/code/WatchUsBuild-React"
   ]

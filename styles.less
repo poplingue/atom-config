@@ -33,6 +33,9 @@ atom-text-editor::shadow .cursor {
 atom-text-editor::shadow .wrap-guide{
 	background-color: #232323;
 }
+atom-text-editor::shadow .is-focused .cursors .cursor {
+  // opacity: 1;
+}
 .tab-bar .tab.active {
     border-bottom: 2px solid #f18260;
 }
@@ -49,4 +52,10 @@ atom-text-editor::shadow .wrap-guide{
 }
 .gutter{
 	min-width: 0em;
+}
+.atom-overlay.autocomplete-plus{
+	border-top: 1px solid #f18260;
+}
+.select-list.popover-list .list-group li.selected:before{
+	background: none;
 }
