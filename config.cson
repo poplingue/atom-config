@@ -16,6 +16,7 @@
       "symbols-view"
       "atom-icons"
       "auto-detect-indentation"
+      "atom-prettify"
     ]
     openEmptyEditorOnStart: false
     themes: [
@@ -33,5 +34,8 @@
     formatOnSave: true
   "exception-reporting":
     userId: "2033d15c-2663-ca23-7799-715a71931e59"
+  "language-babel":
+    autoIndentJSX: true
+    transpileOnSave: true
   welcome:
     showOnStartup: false
