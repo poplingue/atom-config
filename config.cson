@@ -20,11 +20,12 @@
     ]
     openEmptyEditorOnStart: false
     themes: [
-      "material-ui"
-      "material-syntax"
+      "predawn-ui"
+      "predawn-syntax"
     ]
   editor:
     autoIndent: true
+    fontSize: 13
     invisibles: {}
     showIndentGuide: true
     softWrap: true

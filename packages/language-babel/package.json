@@ -1,7 +1,7 @@
 {
   "name": "language-babel",
   "main": "./lib/main",
-  "version": "2.35.0",
+  "version": "2.36.0",
   "description": "Babel JavaScript ES201x, React JSX & Flow Grammar & Transpiler",
   "keywords": [
     "es6",
@@ -51,10 +51,10 @@
     "url": "https://github.com/gandm/language-babel/issues"
   },
   "homepage": "https://github.com/gandm/language-babel#readme",
-  "_id": "language-babel@2.35.0",
-  "_shasum": "eeb5118f7bb90fab811333239c1a6c57d475d512",
-  "_resolved": "file:../d-116731-22239-10df7d7/package.tgz",
-  "_from": "../d-116731-22239-10df7d7/package.tgz",
+  "_id": "language-babel@2.36.0",
+  "_shasum": "67779bc1343d02da7423c1a5dd735ec25f6b2a79",
+  "_resolved": "file:../d-116731-22675-5rsetx/package.tgz",
+  "_from": "../d-116731-22675-5rsetx/package.tgz",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [
